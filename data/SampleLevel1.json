@@ -1,12 +1,12 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "name": "Sakupen Forehead",
+    "author": "FazeC0br4",
+    "creators": ["FazeC0br4", "Creator2", "Creator3"],
+    "verifier": "FazeC0br4",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "handcam": "Not Required",
     "records": [
         {
             "user": "Sample_Victor_1",
